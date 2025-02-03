@@ -1,8 +1,8 @@
-<img src="./.github/icon.png" width="170px" align="right" />
+<img src="https://github.com/nehu3n/litecolor/blob/5408275212b404e4424ed60d80e9c9b6ef97d93a/.github/icon.png" width="170px" align="right" />
 
 # LiteColor
 
-An ultra tiny, elegant and agnostic library written in TypeScript.
+An ultra-tiny, elegant, and agnostic library for console styling, written in TypeScript.
 
 ```ts
 import { style } from "litecolor";
