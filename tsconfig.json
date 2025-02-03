@@ -6,6 +6,7 @@
     "strict": true,
     "esModuleInterop": true,
     "skipLibCheck": true,
+    "declaration": true,
     "forceConsistentCasingInFileNames": true,
     "resolveJsonModule": true,
     "lib": [
@@ -19,5 +20,6 @@
   "exclude": [
     "node_modules",
     "dist",
+    "examples"
   ]
 }

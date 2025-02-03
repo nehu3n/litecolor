@@ -3,3 +3,4 @@ tsconfig.json
 index.ts
 node_modules
 .gitignore
+examples
