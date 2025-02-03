@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "🎨 An ultra-tiny and elegant console style library compatible with any environment.",
   "main": "dist/index.js",
+  "repository": {
+    "url": "https://github.com/nehu3n/smallcolor"
+  },
+  "homepage": "https://github.com/nehu3n/smallcolor?tab=readme-ov-file",
   "scripts": {
     "build": "tsc ; terser dist/index.js -c -o dist/index.js"
   },
