@@ -1,11 +1,11 @@
 <img src="./.github/icon.png" width="170px" align="right" />
 
-# SmallColor
+# LiteColor
 
 An ultra tiny, elegant and agnostic library written in TypeScript.
 
 ```ts
-import { style } from "smallcolor";
+import { style } from "litecolor";
 
 const text = style("Hello world!")
   .color("green")
