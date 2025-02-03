@@ -1,0 +1,24 @@
+{
+  "name": "smallcolor",
+  "version": "1.0.0",
+  "description": "🎨 An ultra-tiny and elegant console style library compatible with any environment.",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc ; terser dist/index.js -c -o dist/index.js"
+  },
+  "keywords": [
+    "colors",
+    "console",
+    "tiny",
+    "style",
+    "elegant",
+    "agnostic",
+    "chalk"
+  ],
+  "author": "Nehuén <github.com/nehu3n>",
+  "license": "MIT",
+  "devDependencies": {
+    "terser": "^5.37.0",
+    "typescript": "^5.7.3"
+  }
+}
