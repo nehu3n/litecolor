@@ -1,6 +1,6 @@
 {
   "name": "litecolor",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "🎨 An ultra-tiny and elegant console style library compatible with any environment.",
   "main": "dist/index.js",
   "repository": {
