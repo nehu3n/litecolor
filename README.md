@@ -21,7 +21,7 @@ console.log(text);
 
 ## ✨ Features
 
-- Ultra tiny
+- Ultra tiny (_0.9kb_) [![Minzipped size][bundlephobia-src]][bundlephobia-href]
 - Elegant API
 - Agnostic (Deno, Bun and NodeJS)
 - Variety of styles and colors
@@ -99,3 +99,6 @@ const text = style("hello world").bg("green").toString(); // 'green' background 
 This project is licensed under the [MIT License](./LICENSE).
 
 ---
+
+[bundlephobia-src]: https://badgen.net/bundlephobia/minzip/litecolor
+[bundlephobia-href]: https://bundlephobia.com/result?p=litecolor
